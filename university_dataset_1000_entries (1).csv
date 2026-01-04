@@ -1,0 +1,1001 @@
+Student_ID,University,Gender,Academic_Year,Course,Student_Fees,Professor_Salary,Professor_Experience_Years
+S0001,Helwan University,Female,2,Engineering,9206,17352,7
+S0002,Helwan University,Female,1,Pharmacy,16162,25485,7
+S0003,Cairo University,Male,4,Law,11326,27940,16
+S0004,Alexandria University,Male,1,Medicine,21227,20115,25
+S0005,Alexandria University,Male,4,Computer Science,12739,17384,2
+S0006,Cairo University,Male,3,Business,13708,28161,28
+S0007,Alexandria University,Male,1,Engineering,22739,24025,29
+S0008,Mansoura University,Male,4,Business,11882,23900,2
+S0009,Alexandria University,Male,2,Computer Science,19075,20498,26
+S0010,Ain Shams University,Female,3,Pharmacy,20937,21348,6
+S0011,Alexandria University,Female,1,Pharmacy,21283,23785,15
+S0012,Cairo University,Female,3,Engineering,12406,15968,33
+S0013,Helwan University,Male,1,Business,22445,25441,31
+S0014,Cairo University,Male,4,Business,21955,26081,20
+S0015,Ain Shams University,Female,3,Medicine,13068,18976,18
+S0016,Alexandria University,Male,1,Pharmacy,23893,24804,25
+S0017,Ain Shams University,Male,1,Medicine,20136,20475,10
+S0018,Alexandria University,Male,1,Pharmacy,19748,26488,18
+S0019,Helwan University,Male,1,Pharmacy,13555,28362,4
+S0020,Alexandria University,Female,3,Medicine,21474,28934,6
+S0021,Helwan University,Female,3,Medicine,21019,28420,6
+S0022,Alexandria University,Male,1,Computer Science,15099,26224,26
+S0023,Mansoura University,Male,3,Business,11917,21989,29
+S0024,Cairo University,Female,3,Medicine,24011,25485,15
+S0025,Cairo University,Male,2,Medicine,20251,26273,24
+S0026,Ain Shams University,Female,4,Business,13854,16365,34
+S0027,Cairo University,Female,3,Computer Science,13519,27596,14
+S0028,Alexandria University,Female,4,Pharmacy,9725,27673,30
+S0029,Helwan University,Female,3,Law,12649,24772,5
+S0030,Cairo University,Male,1,Computer Science,17145,20806,4
+S0031,Mansoura University,Female,3,Computer Science,22101,23261,13
+S0032,Cairo University,Female,2,Pharmacy,18631,19811,30
+S0033,Helwan University,Female,4,Law,20838,27644,10
+S0034,Ain Shams University,Male,4,Pharmacy,18471,17100,3
+S0035,Alexandria University,Female,2,Business,9747,18289,31
+S0036,Cairo University,Male,3,Medicine,18328,28232,12
+S0037,Alexandria University,Male,2,Computer Science,14593,27707,15
+S0038,Mansoura University,Male,4,Business,9289,19630,22
+S0039,Mansoura University,Female,3,Business,11339,26116,29
+S0040,Alexandria University,Male,3,Business,19998,22567,1
+S0041,Helwan University,Male,4,Law,10970,19481,35
+S0042,Ain Shams University,Male,2,Business,24569,19027,30
+S0043,Mansoura University,Male,2,Computer Science,24282,24875,15
+S0044,Ain Shams University,Male,1,Medicine,19466,21387,22
+S0045,Alexandria University,Male,4,Business,10960,29731,26
+S0046,Ain Shams University,Male,2,Law,14273,19974,23
+S0047,Mansoura University,Female,1,Law,20922,26186,5
+S0048,Helwan University,Male,1,Computer Science,13019,24366,7
+S0049,Mansoura University,Female,1,Law,22310,21719,26
+S0050,Cairo University,Female,3,Computer Science,24747,26213,8
+S0051,Helwan University,Male,2,Business,14076,23979,33
+S0052,Alexandria University,Male,4,Law,16354,15766,27
+S0053,Ain Shams University,Female,2,Medicine,19566,17106,12
+S0054,Helwan University,Female,2,Medicine,11325,26321,21
+S0055,Ain Shams University,Male,4,Business,11123,17829,31
+S0056,Cairo University,Male,2,Medicine,9722,18419,22
+S0057,Cairo University,Female,3,Engineering,23420,24508,32
+S0058,Ain Shams University,Female,4,Engineering,21680,28379,13
+S0059,Alexandria University,Female,1,Business,20667,18065,7
+S0060,Mansoura University,Female,2,Computer Science,19106,28228,32
+S0061,Mansoura University,Female,3,Engineering,11441,23551,16
+S0062,Alexandria University,Male,1,Law,20341,16979,22
+S0063,Mansoura University,Male,2,Medicine,11209,19564,29
+S0064,Cairo University,Female,2,Pharmacy,15615,20720,11
+S0065,Mansoura University,Male,3,Computer Science,19767,23836,26
+S0066,Helwan University,Male,2,Law,20691,21261,30
+S0067,Alexandria University,Female,4,Pharmacy,16800,20001,34
+S0068,Ain Shams University,Female,3,Law,17433,21840,9
+S0069,Cairo University,Female,3,Medicine,11115,16385,19
+S0070,Cairo University,Male,3,Pharmacy,9967,18074,23
+S0071,Alexandria University,Male,3,Business,8216,23223,34
+S0072,Mansoura University,Male,4,Business,14898,16009,18
+S0073,Alexandria University,Male,4,Medicine,19281,27120,18
+S0074,Ain Shams University,Female,3,Law,19552,27417,3
+S0075,Alexandria University,Female,1,Medicine,20338,21678,9
+S0076,Cairo University,Male,4,Engineering,21773,29910,7
+S0077,Alexandria University,Male,3,Medicine,9603,17401,17
+S0078,Helwan University,Female,1,Law,16720,25718,20
+S0079,Helwan University,Female,3,Law,22500,22999,30
+S0080,Cairo University,Female,4,Law,12480,17982,29
+S0081,Ain Shams University,Female,1,Medicine,9155,26088,7
+S0082,Alexandria University,Male,4,Business,14018,16528,9
+S0083,Alexandria University,Male,4,Pharmacy,20846,22021,32
+S0084,Ain Shams University,Female,2,Computer Science,12641,29663,34
+S0085,Mansoura University,Male,3,Pharmacy,18917,25554,20
+S0086,Cairo University,Male,4,Law,16433,22117,32
+S0087,Helwan University,Male,2,Medicine,8026,18486,25
+S0088,Cairo University,Female,2,Pharmacy,17162,29098,2
+S0089,Cairo University,Male,3,Medicine,21434,27868,24
+S0090,Ain Shams University,Female,1,Pharmacy,19599,27841,25
+S0091,Cairo University,Male,3,Medicine,18978,26983,16
+S0092,Ain Shams University,Male,4,Business,21634,16752,8
+S0093,Alexandria University,Female,2,Law,20824,17430,16
+S0094,Helwan University,Female,3,Computer Science,21163,21265,18
+S0095,Cairo University,Female,1,Computer Science,24678,27818,17
+S0096,Cairo University,Male,2,Medicine,23622,23528,31
+S0097,Alexandria University,Female,4,Computer Science,20318,28647,31
+S0098,Ain Shams University,Female,3,Law,11422,17914,7
+S0099,Helwan University,Female,2,Medicine,10066,19729,11
+S0100,Cairo University,Male,1,Business,15337,17168,25
+S0101,Mansoura University,Male,4,Engineering,22132,27477,34
+S0102,Helwan University,Female,4,Law,20643,29650,24
+S0103,Cairo University,Male,4,Computer Science,18227,21785,17
+S0104,Alexandria University,Female,3,Computer Science,9326,16101,33
+S0105,Ain Shams University,Male,1,Pharmacy,9963,18220,21
+S0106,Cairo University,Female,4,Pharmacy,16927,23759,25
+S0107,Alexandria University,Male,4,Engineering,13234,23841,25
+S0108,Helwan University,Male,4,Business,9540,29690,3
+S0109,Alexandria University,Male,2,Computer Science,9630,24160,24
+S0110,Cairo University,Female,4,Pharmacy,9301,18972,32
+S0111,Mansoura University,Female,1,Law,19294,19163,31
+S0112,Ain Shams University,Male,1,Engineering,8396,20603,11
+S0113,Cairo University,Male,2,Medicine,12796,20238,10
+S0114,Helwan University,Female,3,Business,16636,20905,22
+S0115,Alexandria University,Male,1,Business,21696,20256,3
+S0116,Alexandria University,Female,2,Pharmacy,22951,23651,28
+S0117,Alexandria University,Female,1,Medicine,15277,27931,4
+S0118,Mansoura University,Male,3,Law,20948,27383,29
+S0119,Mansoura University,Male,3,Business,21780,15465,19
+S0120,Helwan University,Male,1,Medicine,24667,23682,20
+S0121,Mansoura University,Male,1,Law,17371,20303,18
+S0122,Helwan University,Male,2,Pharmacy,12246,23862,19
+S0123,Mansoura University,Male,1,Pharmacy,22136,26820,4
+S0124,Cairo University,Female,3,Pharmacy,18641,25536,33
+S0125,Ain Shams University,Female,4,Engineering,12509,25047,2
+S0126,Ain Shams University,Male,3,Pharmacy,12671,27997,6
+S0127,Cairo University,Male,3,Computer Science,15173,16057,9
+S0128,Cairo University,Male,3,Computer Science,19067,15230,8
+S0129,Ain Shams University,Male,1,Engineering,14827,23182,6
+S0130,Helwan University,Female,1,Computer Science,12077,25117,23
+S0131,Ain Shams University,Female,1,Engineering,13438,21585,27
+S0132,Helwan University,Male,3,Pharmacy,12014,20921,25
+S0133,Helwan University,Female,1,Business,20714,27609,3
+S0134,Alexandria University,Female,4,Computer Science,19809,20334,4
+S0135,Helwan University,Female,2,Pharmacy,17876,22088,9
+S0136,Helwan University,Female,3,Pharmacy,8253,15465,34
+S0137,Cairo University,Female,2,Law,13167,23240,28
+S0138,Alexandria University,Female,2,Medicine,8232,16100,8
+S0139,Cairo University,Female,2,Pharmacy,24916,15185,23
+S0140,Mansoura University,Female,2,Pharmacy,9329,25274,23
+S0141,Alexandria University,Female,4,Business,22904,17264,24
+S0142,Helwan University,Female,3,Engineering,24939,22286,3
+S0143,Helwan University,Male,2,Business,21553,26629,24
+S0144,Mansoura University,Male,4,Business,20046,27761,3
+S0145,Mansoura University,Male,1,Engineering,8192,23823,17
+S0146,Helwan University,Male,4,Engineering,11140,22954,28
+S0147,Alexandria University,Female,2,Law,8287,19550,12
+S0148,Cairo University,Male,4,Engineering,22383,23900,26
+S0149,Helwan University,Female,4,Law,20228,18438,11
+S0150,Helwan University,Female,2,Computer Science,12637,26234,8
+S0151,Alexandria University,Female,2,Medicine,22686,23697,14
+S0152,Helwan University,Female,4,Medicine,9356,20570,23
+S0153,Alexandria University,Female,2,Medicine,15789,15895,27
+S0154,Mansoura University,Female,3,Medicine,24798,27519,18
+S0155,Alexandria University,Female,2,Business,10365,29414,22
+S0156,Ain Shams University,Male,3,Business,22769,20673,30
+S0157,Alexandria University,Male,3,Medicine,15933,16763,24
+S0158,Cairo University,Male,1,Law,14481,26626,6
+S0159,Helwan University,Male,3,Law,15955,22785,2
+S0160,Helwan University,Male,4,Computer Science,11531,20181,33
+S0161,Ain Shams University,Female,2,Medicine,23857,24874,27
+S0162,Ain Shams University,Female,3,Law,22126,23583,8
+S0163,Cairo University,Male,3,Engineering,13272,22974,35
+S0164,Cairo University,Male,2,Medicine,9731,28197,14
+S0165,Ain Shams University,Male,4,Engineering,22298,25602,28
+S0166,Alexandria University,Female,4,Engineering,16147,15036,22
+S0167,Ain Shams University,Female,4,Pharmacy,22817,16479,20
+S0168,Alexandria University,Female,4,Law,16295,16597,30
+S0169,Alexandria University,Male,2,Law,24302,20070,13
+S0170,Ain Shams University,Female,2,Pharmacy,14834,27620,21
+S0171,Helwan University,Male,2,Computer Science,16514,16206,8
+S0172,Alexandria University,Female,2,Engineering,22630,24537,24
+S0173,Cairo University,Female,4,Law,11520,23763,20
+S0174,Ain Shams University,Male,2,Medicine,12819,25421,1
+S0175,Alexandria University,Male,1,Medicine,21145,24480,11
+S0176,Ain Shams University,Male,3,Business,8641,18279,4
+S0177,Helwan University,Female,2,Pharmacy,11133,16247,13
+S0178,Helwan University,Male,3,Pharmacy,9449,26678,20
+S0179,Alexandria University,Female,4,Law,14723,26883,5
+S0180,Mansoura University,Male,4,Pharmacy,9561,17352,8
+S0181,Cairo University,Female,1,Pharmacy,22465,22119,22
+S0182,Alexandria University,Female,4,Computer Science,22184,29556,15
+S0183,Helwan University,Female,4,Computer Science,11888,23505,23
+S0184,Alexandria University,Male,4,Computer Science,11015,18580,12
+S0185,Cairo University,Male,1,Law,9496,24690,18
+S0186,Helwan University,Male,1,Business,11027,19034,23
+S0187,Alexandria University,Male,1,Law,22029,15857,29
+S0188,Mansoura University,Female,1,Computer Science,24701,17409,30
+S0189,Cairo University,Female,3,Engineering,15405,19798,22
+S0190,Alexandria University,Male,3,Medicine,17526,15087,18
+S0191,Cairo University,Female,1,Medicine,17493,25277,29
+S0192,Cairo University,Male,1,Medicine,14901,23223,25
+S0193,Ain Shams University,Male,1,Law,10963,25197,24
+S0194,Alexandria University,Male,2,Business,13326,17225,17
+S0195,Ain Shams University,Female,2,Engineering,19112,19484,34
+S0196,Helwan University,Male,4,Engineering,23699,24040,17
+S0197,Alexandria University,Male,3,Pharmacy,9417,22563,22
+S0198,Ain Shams University,Female,2,Law,14235,27752,30
+S0199,Mansoura University,Female,1,Engineering,9209,26489,26
+S0200,Helwan University,Female,4,Computer Science,15043,21496,15
+S0201,Mansoura University,Male,2,Computer Science,22515,24289,3
+S0202,Mansoura University,Male,4,Pharmacy,14691,21951,31
+S0203,Helwan University,Female,2,Medicine,11573,18254,26
+S0204,Alexandria University,Male,4,Computer Science,10326,24890,1
+S0205,Alexandria University,Female,4,Engineering,12479,22307,24
+S0206,Mansoura University,Female,2,Computer Science,8689,22779,10
+S0207,Alexandria University,Female,1,Engineering,18965,27236,18
+S0208,Alexandria University,Male,4,Pharmacy,17688,19382,25
+S0209,Cairo University,Female,3,Computer Science,13241,16938,33
+S0210,Alexandria University,Male,4,Law,8000,20629,13
+S0211,Ain Shams University,Female,1,Business,8356,24003,30
+S0212,Mansoura University,Female,2,Pharmacy,11985,24687,13
+S0213,Ain Shams University,Male,2,Business,19990,15690,29
+S0214,Alexandria University,Male,2,Computer Science,13647,18999,35
+S0215,Ain Shams University,Male,3,Engineering,15967,19655,17
+S0216,Alexandria University,Male,2,Computer Science,17794,29013,33
+S0217,Mansoura University,Male,1,Pharmacy,22074,25790,10
+S0218,Mansoura University,Female,4,Computer Science,9524,25999,26
+S0219,Alexandria University,Female,1,Computer Science,16190,24422,18
+S0220,Mansoura University,Female,1,Medicine,9933,20142,24
+S0221,Mansoura University,Male,4,Medicine,12106,25703,13
+S0222,Alexandria University,Male,4,Pharmacy,11750,24427,8
+S0223,Ain Shams University,Male,4,Medicine,21083,29692,3
+S0224,Alexandria University,Male,3,Pharmacy,14542,26884,10
+S0225,Ain Shams University,Female,4,Computer Science,10917,25450,28
+S0226,Cairo University,Male,2,Business,16111,25644,20
+S0227,Ain Shams University,Male,1,Computer Science,19829,16303,22
+S0228,Cairo University,Male,1,Business,18799,19409,30
+S0229,Ain Shams University,Male,3,Computer Science,12349,18249,33
+S0230,Cairo University,Female,4,Business,22320,25546,19
+S0231,Cairo University,Male,2,Business,12400,27955,3
+S0232,Mansoura University,Female,4,Law,10930,22817,9
+S0233,Ain Shams University,Male,2,Computer Science,9466,25082,25
+S0234,Mansoura University,Male,2,Business,15337,20991,6
+S0235,Alexandria University,Male,3,Law,13658,18275,26
+S0236,Ain Shams University,Female,4,Computer Science,18848,25181,16
+S0237,Ain Shams University,Female,4,Law,16550,16279,30
+S0238,Ain Shams University,Male,3,Engineering,18756,29644,8
+S0239,Mansoura University,Male,4,Law,13793,24983,3
+S0240,Cairo University,Male,4,Business,21980,29128,28
+S0241,Helwan University,Male,4,Business,14208,27685,23
+S0242,Helwan University,Female,3,Computer Science,16957,17973,31
+S0243,Ain Shams University,Female,1,Business,23581,23664,18
+S0244,Mansoura University,Male,1,Engineering,20411,26447,19
+S0245,Alexandria University,Female,2,Law,24098,26409,10
+S0246,Alexandria University,Male,4,Business,22115,16406,27
+S0247,Ain Shams University,Female,3,Business,22803,21101,3
+S0248,Helwan University,Male,1,Pharmacy,17393,15857,14
+S0249,Ain Shams University,Female,4,Business,20933,20821,27
+S0250,Mansoura University,Female,3,Business,23633,28437,10
+S0251,Ain Shams University,Male,2,Medicine,8129,22396,29
+S0252,Helwan University,Female,2,Engineering,22224,23822,29
+S0253,Cairo University,Female,2,Engineering,13240,21294,31
+S0254,Mansoura University,Male,3,Business,20743,21488,33
+S0255,Ain Shams University,Male,2,Engineering,21675,24958,25
+S0256,Cairo University,Female,3,Law,16880,18392,30
+S0257,Alexandria University,Male,2,Medicine,17324,25949,9
+S0258,Mansoura University,Female,3,Engineering,14068,26730,34
+S0259,Cairo University,Male,2,Business,16270,23112,6
+S0260,Alexandria University,Male,4,Business,10162,16515,13
+S0261,Ain Shams University,Female,4,Engineering,21455,20548,7
+S0262,Ain Shams University,Male,4,Computer Science,9681,22144,33
+S0263,Helwan University,Male,4,Medicine,17420,28618,32
+S0264,Alexandria University,Female,2,Medicine,14888,23396,1
+S0265,Cairo University,Male,2,Law,17093,17610,2
+S0266,Ain Shams University,Female,1,Law,15465,16203,9
+S0267,Mansoura University,Male,4,Pharmacy,16844,15800,11
+S0268,Alexandria University,Female,4,Engineering,8357,23543,2
+S0269,Ain Shams University,Female,2,Business,16220,28063,7
+S0270,Ain Shams University,Female,4,Computer Science,23405,24742,10
+S0271,Mansoura University,Male,1,Business,22369,18819,13
+S0272,Alexandria University,Female,4,Law,14385,20162,31
+S0273,Helwan University,Male,4,Engineering,21940,16159,9
+S0274,Cairo University,Female,1,Law,10569,29504,18
+S0275,Mansoura University,Female,3,Law,20956,15976,35
+S0276,Alexandria University,Female,2,Engineering,20260,20785,20
+S0277,Ain Shams University,Female,3,Computer Science,10195,29484,18
+S0278,Helwan University,Male,3,Pharmacy,21771,17506,27
+S0279,Helwan University,Male,1,Engineering,9679,19500,11
+S0280,Helwan University,Female,2,Computer Science,20957,15564,25
+S0281,Mansoura University,Male,2,Medicine,10883,28490,22
+S0282,Mansoura University,Female,4,Business,9698,17156,13
+S0283,Alexandria University,Male,4,Pharmacy,15580,15686,3
+S0284,Helwan University,Male,3,Business,24882,20748,5
+S0285,Ain Shams University,Male,4,Engineering,14842,24796,2
+S0286,Helwan University,Female,3,Engineering,20349,21970,27
+S0287,Cairo University,Female,4,Engineering,17029,23372,29
+S0288,Ain Shams University,Female,1,Law,20384,27514,16
+S0289,Cairo University,Male,3,Business,18555,22388,13
+S0290,Alexandria University,Male,2,Business,20768,28682,32
+S0291,Alexandria University,Male,3,Law,12870,17262,8
+S0292,Ain Shams University,Female,1,Business,14396,24391,12
+S0293,Ain Shams University,Male,2,Computer Science,21862,27373,29
+S0294,Ain Shams University,Female,3,Computer Science,19577,16407,20
+S0295,Helwan University,Female,1,Engineering,14936,16675,34
+S0296,Mansoura University,Female,2,Computer Science,14272,24738,33
+S0297,Helwan University,Male,3,Law,11299,21823,1
+S0298,Helwan University,Male,1,Medicine,8164,20838,14
+S0299,Ain Shams University,Male,4,Engineering,22489,21075,17
+S0300,Cairo University,Female,3,Medicine,12171,18764,18
+S0301,Alexandria University,Male,4,Computer Science,24200,20974,33
+S0302,Alexandria University,Female,1,Pharmacy,24824,15537,20
+S0303,Mansoura University,Female,1,Business,15361,25680,8
+S0304,Helwan University,Female,3,Engineering,21955,18962,14
+S0305,Ain Shams University,Male,4,Engineering,20424,24887,14
+S0306,Helwan University,Female,2,Pharmacy,21997,21159,13
+S0307,Mansoura University,Male,2,Computer Science,19439,19497,24
+S0308,Helwan University,Female,1,Law,9445,25608,32
+S0309,Ain Shams University,Female,1,Computer Science,14684,22907,11
+S0310,Alexandria University,Female,3,Law,13544,25621,1
+S0311,Mansoura University,Male,1,Engineering,12749,18957,22
+S0312,Mansoura University,Male,2,Computer Science,16554,29580,20
+S0313,Helwan University,Female,3,Pharmacy,12204,27344,2
+S0314,Alexandria University,Female,2,Pharmacy,15419,15754,32
+S0315,Ain Shams University,Male,1,Computer Science,10776,21229,27
+S0316,Cairo University,Male,3,Computer Science,19349,25955,14
+S0317,Mansoura University,Male,2,Law,17699,22243,17
+S0318,Mansoura University,Female,4,Computer Science,8218,16968,7
+S0319,Cairo University,Female,1,Engineering,11515,23340,28
+S0320,Cairo University,Male,4,Medicine,23554,20711,13
+S0321,Mansoura University,Male,4,Medicine,18133,27483,35
+S0322,Ain Shams University,Female,4,Law,13948,26589,18
+S0323,Ain Shams University,Female,1,Pharmacy,11262,16242,4
+S0324,Cairo University,Female,3,Pharmacy,23544,27369,30
+S0325,Alexandria University,Male,3,Computer Science,8303,15537,30
+S0326,Mansoura University,Female,4,Engineering,17895,15174,2
+S0327,Mansoura University,Female,4,Medicine,22312,21153,11
+S0328,Helwan University,Female,4,Engineering,24737,16168,30
+S0329,Helwan University,Female,4,Computer Science,22859,16299,28
+S0330,Helwan University,Female,1,Medicine,20467,17214,17
+S0331,Cairo University,Male,3,Business,10741,25605,35
+S0332,Ain Shams University,Female,4,Medicine,21122,15098,27
+S0333,Ain Shams University,Male,2,Business,19160,16021,10
+S0334,Mansoura University,Male,4,Law,8128,17361,34
+S0335,Alexandria University,Male,2,Medicine,16067,28633,15
+S0336,Mansoura University,Male,2,Medicine,20360,29684,21
+S0337,Mansoura University,Male,1,Pharmacy,23255,24323,6
+S0338,Alexandria University,Female,2,Computer Science,8888,29281,3
+S0339,Helwan University,Male,1,Pharmacy,8478,24392,30
+S0340,Helwan University,Male,3,Engineering,13272,16713,35
+S0341,Mansoura University,Female,4,Medicine,9959,26123,15
+S0342,Ain Shams University,Female,4,Law,8655,23060,31
+S0343,Alexandria University,Male,1,Computer Science,19543,28078,14
+S0344,Mansoura University,Male,3,Pharmacy,20870,17994,28
+S0345,Alexandria University,Female,2,Computer Science,20703,29145,35
+S0346,Ain Shams University,Male,3,Medicine,24439,28634,24
+S0347,Helwan University,Male,3,Medicine,15128,22476,5
+S0348,Ain Shams University,Female,3,Law,23340,19724,11
+S0349,Ain Shams University,Female,4,Medicine,13688,29115,33
+S0350,Ain Shams University,Female,1,Law,10845,28817,20
+S0351,Ain Shams University,Female,4,Pharmacy,9758,24958,3
+S0352,Helwan University,Male,2,Computer Science,20990,23747,18
+S0353,Mansoura University,Male,4,Law,21876,22981,25
+S0354,Ain Shams University,Male,2,Law,18885,23241,3
+S0355,Alexandria University,Female,2,Pharmacy,14312,26778,19
+S0356,Mansoura University,Male,3,Business,15113,24200,31
+S0357,Alexandria University,Male,2,Business,24167,19718,9
+S0358,Ain Shams University,Female,2,Engineering,13295,21351,16
+S0359,Mansoura University,Male,2,Computer Science,10698,25476,7
+S0360,Cairo University,Female,4,Pharmacy,8081,29190,12
+S0361,Ain Shams University,Male,1,Engineering,20263,29056,20
+S0362,Mansoura University,Male,4,Pharmacy,16920,16627,26
+S0363,Helwan University,Male,2,Law,9841,26222,5
+S0364,Ain Shams University,Male,2,Pharmacy,11775,23439,19
+S0365,Ain Shams University,Male,4,Computer Science,16824,29223,24
+S0366,Mansoura University,Female,1,Medicine,8408,21428,14
+S0367,Cairo University,Female,1,Computer Science,19422,27055,9
+S0368,Helwan University,Male,4,Engineering,15646,16486,7
+S0369,Helwan University,Male,3,Medicine,14541,16385,21
+S0370,Helwan University,Male,4,Pharmacy,9793,21359,19
+S0371,Ain Shams University,Male,3,Pharmacy,8778,24487,2
+S0372,Cairo University,Female,3,Business,10587,15678,2
+S0373,Cairo University,Female,1,Pharmacy,21921,28208,3
+S0374,Cairo University,Male,1,Computer Science,15874,23640,33
+S0375,Alexandria University,Male,4,Pharmacy,10949,29235,30
+S0376,Cairo University,Female,4,Business,9717,20712,25
+S0377,Cairo University,Male,3,Computer Science,24911,19268,14
+S0378,Alexandria University,Male,3,Medicine,8313,25952,25
+S0379,Helwan University,Female,2,Pharmacy,17941,28764,5
+S0380,Cairo University,Male,1,Law,18353,18831,15
+S0381,Cairo University,Female,1,Engineering,16228,15905,26
+S0382,Cairo University,Female,1,Law,12380,26076,35
+S0383,Mansoura University,Female,1,Law,8023,26728,24
+S0384,Alexandria University,Female,1,Business,10213,18185,14
+S0385,Mansoura University,Male,4,Medicine,22257,21195,1
+S0386,Alexandria University,Female,1,Engineering,19671,19492,19
+S0387,Alexandria University,Female,2,Engineering,12823,15396,25
+S0388,Helwan University,Male,1,Engineering,13755,18349,3
+S0389,Helwan University,Male,4,Pharmacy,14636,24463,7
+S0390,Alexandria University,Male,1,Medicine,19609,16494,11
+S0391,Mansoura University,Male,2,Engineering,10846,21687,12
+S0392,Ain Shams University,Female,1,Medicine,8905,27114,17
+S0393,Alexandria University,Female,4,Computer Science,21344,17905,11
+S0394,Ain Shams University,Female,3,Medicine,19139,16344,9
+S0395,Ain Shams University,Male,4,Engineering,22489,17992,17
+S0396,Alexandria University,Male,4,Medicine,19573,21051,32
+S0397,Mansoura University,Male,2,Law,19324,27234,22
+S0398,Ain Shams University,Female,1,Business,11902,23137,28
+S0399,Cairo University,Female,2,Computer Science,9786,29999,33
+S0400,Ain Shams University,Male,3,Business,20049,27563,6
+S0401,Cairo University,Male,4,Law,11053,21292,26
+S0402,Helwan University,Male,4,Pharmacy,20728,17057,28
+S0403,Alexandria University,Male,2,Engineering,13052,19122,7
+S0404,Alexandria University,Male,1,Pharmacy,20493,18143,30
+S0405,Helwan University,Male,3,Business,8171,18989,11
+S0406,Cairo University,Male,3,Law,18220,18677,4
+S0407,Cairo University,Male,4,Engineering,22421,29369,13
+S0408,Mansoura University,Male,1,Pharmacy,23823,19211,3
+S0409,Alexandria University,Female,1,Pharmacy,11570,25779,2
+S0410,Helwan University,Male,2,Medicine,21539,18929,19
+S0411,Helwan University,Male,2,Medicine,18660,29201,23
+S0412,Mansoura University,Male,1,Computer Science,8002,15419,19
+S0413,Ain Shams University,Female,1,Law,13662,21452,8
+S0414,Alexandria University,Female,2,Computer Science,9240,24880,24
+S0415,Alexandria University,Female,1,Engineering,23785,23985,31
+S0416,Ain Shams University,Female,2,Business,14369,26843,25
+S0417,Helwan University,Female,1,Law,21391,26251,12
+S0418,Mansoura University,Male,4,Engineering,8798,20004,20
+S0419,Alexandria University,Male,1,Pharmacy,9705,26557,18
+S0420,Cairo University,Male,2,Medicine,13316,18617,25
+S0421,Alexandria University,Male,3,Pharmacy,10113,26762,9
+S0422,Ain Shams University,Female,4,Computer Science,9979,18291,7
+S0423,Ain Shams University,Female,4,Computer Science,19184,20416,35
+S0424,Mansoura University,Female,4,Pharmacy,20127,23753,35
+S0425,Ain Shams University,Male,3,Pharmacy,17795,27242,3
+S0426,Cairo University,Female,1,Pharmacy,19147,23625,32
+S0427,Ain Shams University,Male,3,Engineering,16538,22387,12
+S0428,Cairo University,Male,3,Engineering,8383,22952,29
+S0429,Helwan University,Male,3,Pharmacy,18881,18471,2
+S0430,Mansoura University,Male,2,Business,15712,28181,26
+S0431,Helwan University,Female,2,Engineering,23711,25869,17
+S0432,Helwan University,Male,3,Engineering,24664,27809,12
+S0433,Mansoura University,Male,4,Engineering,20207,17110,34
+S0434,Mansoura University,Male,3,Engineering,24120,21780,19
+S0435,Alexandria University,Female,4,Law,19633,21179,30
+S0436,Ain Shams University,Female,2,Law,11727,26655,22
+S0437,Helwan University,Male,3,Computer Science,19075,20482,22
+S0438,Mansoura University,Male,4,Law,20371,15724,13
+S0439,Mansoura University,Female,1,Business,17297,29224,33
+S0440,Alexandria University,Male,3,Law,16930,21908,16
+S0441,Helwan University,Male,3,Engineering,24614,17835,14
+S0442,Mansoura University,Male,4,Computer Science,23139,29982,19
+S0443,Helwan University,Male,4,Medicine,19596,27145,1
+S0444,Ain Shams University,Female,4,Business,11512,23845,25
+S0445,Helwan University,Female,2,Law,14615,20222,32
+S0446,Alexandria University,Female,1,Pharmacy,9677,15295,33
+S0447,Helwan University,Female,1,Pharmacy,14191,19972,22
+S0448,Alexandria University,Female,1,Pharmacy,8330,25716,19
+S0449,Helwan University,Female,3,Engineering,17325,26906,26
+S0450,Helwan University,Male,3,Engineering,9204,28659,35
+S0451,Mansoura University,Male,4,Pharmacy,18630,16713,8
+S0452,Helwan University,Female,2,Business,12821,24019,28
+S0453,Alexandria University,Male,3,Business,23681,23261,11
+S0454,Ain Shams University,Male,4,Computer Science,18880,17811,29
+S0455,Ain Shams University,Male,3,Pharmacy,12378,28481,7
+S0456,Cairo University,Male,2,Computer Science,18332,29460,26
+S0457,Ain Shams University,Male,3,Pharmacy,24994,29610,14
+S0458,Ain Shams University,Female,2,Medicine,14040,15776,5
+S0459,Alexandria University,Female,4,Pharmacy,14279,16862,31
+S0460,Alexandria University,Female,4,Law,14504,26721,11
+S0461,Cairo University,Female,3,Engineering,10330,23800,8
+S0462,Alexandria University,Female,2,Law,10304,17554,31
+S0463,Cairo University,Male,4,Pharmacy,24834,20467,4
+S0464,Helwan University,Male,1,Computer Science,22792,15804,26
+S0465,Cairo University,Male,3,Medicine,10016,24982,11
+S0466,Cairo University,Female,4,Pharmacy,22405,17890,16
+S0467,Alexandria University,Female,4,Pharmacy,23623,16680,32
+S0468,Ain Shams University,Male,1,Computer Science,12256,29005,24
+S0469,Helwan University,Female,2,Medicine,11333,16629,35
+S0470,Helwan University,Male,4,Law,16175,22814,23
+S0471,Helwan University,Male,4,Law,18146,15341,1
+S0472,Alexandria University,Male,4,Medicine,13714,20287,22
+S0473,Ain Shams University,Female,3,Pharmacy,21422,20011,6
+S0474,Mansoura University,Male,3,Pharmacy,18174,17233,13
+S0475,Ain Shams University,Male,2,Medicine,10147,17937,4
+S0476,Alexandria University,Male,3,Medicine,24412,18640,25
+S0477,Helwan University,Male,1,Pharmacy,21513,18360,31
+S0478,Cairo University,Female,3,Medicine,12545,16274,1
+S0479,Ain Shams University,Male,3,Engineering,21576,21931,2
+S0480,Alexandria University,Female,4,Medicine,17864,23772,35
+S0481,Alexandria University,Male,1,Business,9144,24062,29
+S0482,Helwan University,Female,4,Pharmacy,19801,19221,6
+S0483,Ain Shams University,Male,4,Engineering,20624,22716,16
+S0484,Helwan University,Male,4,Pharmacy,14386,20438,8
+S0485,Alexandria University,Male,1,Medicine,16628,29026,17
+S0486,Helwan University,Female,2,Medicine,17718,18272,19
+S0487,Helwan University,Male,2,Engineering,17937,27412,31
+S0488,Cairo University,Male,4,Business,13666,27643,20
+S0489,Helwan University,Female,3,Computer Science,13139,21373,20
+S0490,Mansoura University,Male,4,Engineering,8476,16392,16
+S0491,Mansoura University,Female,4,Computer Science,8947,17655,28
+S0492,Mansoura University,Female,4,Computer Science,10524,24449,7
+S0493,Ain Shams University,Male,2,Computer Science,14716,15845,3
+S0494,Cairo University,Female,1,Business,22192,26940,19
+S0495,Alexandria University,Female,3,Business,17063,28209,35
+S0496,Helwan University,Female,1,Business,11998,15126,34
+S0497,Alexandria University,Male,2,Engineering,11847,26215,22
+S0498,Helwan University,Female,3,Medicine,16537,21515,35
+S0499,Ain Shams University,Male,3,Medicine,8113,25153,25
+S0500,Ain Shams University,Female,3,Pharmacy,10435,25245,18
+S0501,Cairo University,Male,1,Engineering,9098,21827,10
+S0502,Ain Shams University,Male,1,Law,9771,16588,27
+S0503,Alexandria University,Male,3,Medicine,10758,16207,3
+S0504,Cairo University,Male,1,Engineering,23440,18001,14
+S0505,Cairo University,Female,1,Law,18674,20919,12
+S0506,Helwan University,Male,3,Law,21219,19513,8
+S0507,Mansoura University,Female,2,Pharmacy,20068,20837,29
+S0508,Helwan University,Male,2,Pharmacy,19131,24866,26
+S0509,Mansoura University,Female,4,Law,11096,25572,19
+S0510,Alexandria University,Female,4,Business,20262,18447,23
+S0511,Helwan University,Male,1,Computer Science,11289,25845,25
+S0512,Alexandria University,Male,2,Law,13507,26330,14
+S0513,Helwan University,Male,4,Law,14340,19740,7
+S0514,Mansoura University,Male,1,Computer Science,21696,17152,9
+S0515,Mansoura University,Male,3,Pharmacy,17403,27030,31
+S0516,Ain Shams University,Male,2,Pharmacy,11058,29670,16
+S0517,Helwan University,Male,4,Medicine,15095,25179,27
+S0518,Ain Shams University,Male,4,Law,10096,17717,33
+S0519,Helwan University,Female,3,Law,8788,22727,35
+S0520,Cairo University,Female,1,Medicine,16399,21890,15
+S0521,Mansoura University,Female,3,Engineering,22444,19816,15
+S0522,Helwan University,Female,1,Engineering,12818,22263,2
+S0523,Alexandria University,Female,3,Law,17084,16442,14
+S0524,Alexandria University,Male,4,Engineering,17220,23156,24
+S0525,Alexandria University,Female,3,Computer Science,14198,20223,31
+S0526,Mansoura University,Female,1,Pharmacy,23709,20424,35
+S0527,Ain Shams University,Female,1,Engineering,24467,25172,28
+S0528,Cairo University,Male,3,Business,20791,19794,24
+S0529,Helwan University,Female,1,Engineering,24959,22005,20
+S0530,Mansoura University,Male,2,Law,21858,19750,29
+S0531,Alexandria University,Male,4,Engineering,19746,15915,13
+S0532,Cairo University,Male,3,Engineering,19538,28959,12
+S0533,Mansoura University,Female,2,Medicine,8299,17666,22
+S0534,Cairo University,Male,3,Medicine,24019,25043,20
+S0535,Cairo University,Male,4,Law,9706,26702,7
+S0536,Ain Shams University,Female,1,Law,18160,16608,4
+S0537,Mansoura University,Male,1,Pharmacy,14852,20791,6
+S0538,Cairo University,Male,4,Pharmacy,16614,26714,21
+S0539,Ain Shams University,Female,1,Engineering,14989,27096,21
+S0540,Cairo University,Female,3,Engineering,8339,25101,1
+S0541,Helwan University,Female,1,Engineering,11824,27585,1
+S0542,Ain Shams University,Male,1,Computer Science,15872,15403,35
+S0543,Alexandria University,Male,3,Computer Science,10437,15582,12
+S0544,Ain Shams University,Female,1,Business,20625,20037,35
+S0545,Alexandria University,Female,2,Computer Science,19233,18954,33
+S0546,Helwan University,Male,2,Engineering,17970,19592,26
+S0547,Alexandria University,Female,4,Medicine,23991,18959,12
+S0548,Alexandria University,Male,3,Engineering,18797,26442,30
+S0549,Ain Shams University,Female,1,Law,24770,20146,35
+S0550,Cairo University,Male,2,Pharmacy,17483,20994,12
+S0551,Helwan University,Female,2,Medicine,20502,21958,26
+S0552,Alexandria University,Female,3,Computer Science,9891,15284,7
+S0553,Cairo University,Male,2,Medicine,20538,20944,11
+S0554,Helwan University,Female,4,Computer Science,21642,28865,7
+S0555,Alexandria University,Female,3,Computer Science,17821,15768,19
+S0556,Helwan University,Female,2,Pharmacy,13113,17354,17
+S0557,Helwan University,Male,3,Pharmacy,17947,19363,10
+S0558,Ain Shams University,Female,1,Computer Science,22170,26023,29
+S0559,Mansoura University,Male,4,Pharmacy,14009,19956,34
+S0560,Alexandria University,Female,4,Engineering,16638,25155,26
+S0561,Cairo University,Female,3,Computer Science,11757,29690,17
+S0562,Mansoura University,Male,4,Pharmacy,11214,22590,24
+S0563,Helwan University,Male,3,Computer Science,13196,17959,20
+S0564,Cairo University,Male,2,Business,11474,22697,29
+S0565,Alexandria University,Male,4,Engineering,12699,19574,23
+S0566,Cairo University,Male,4,Business,19457,24425,22
+S0567,Helwan University,Female,2,Computer Science,8571,23048,14
+S0568,Mansoura University,Female,4,Business,14265,18273,26
+S0569,Alexandria University,Female,4,Engineering,11334,16622,27
+S0570,Ain Shams University,Female,3,Pharmacy,11784,24959,27
+S0571,Mansoura University,Male,4,Pharmacy,14901,21975,34
+S0572,Cairo University,Female,3,Engineering,8197,15553,6
+S0573,Cairo University,Male,1,Pharmacy,13277,25273,12
+S0574,Alexandria University,Female,1,Engineering,13998,26156,30
+S0575,Alexandria University,Male,3,Engineering,17285,16209,20
+S0576,Cairo University,Female,1,Medicine,24245,17718,6
+S0577,Mansoura University,Female,1,Business,10696,22957,28
+S0578,Cairo University,Male,1,Computer Science,10175,22658,19
+S0579,Cairo University,Female,4,Law,13647,18399,22
+S0580,Helwan University,Male,2,Computer Science,11092,18055,6
+S0581,Alexandria University,Female,3,Medicine,9355,15294,6
+S0582,Helwan University,Male,1,Pharmacy,11553,15847,21
+S0583,Helwan University,Male,1,Engineering,10557,28522,28
+S0584,Mansoura University,Female,1,Pharmacy,21441,22455,2
+S0585,Ain Shams University,Male,3,Business,20826,19758,14
+S0586,Mansoura University,Male,4,Pharmacy,17158,27684,1
+S0587,Cairo University,Male,4,Law,14427,16708,20
+S0588,Mansoura University,Female,4,Business,17644,26224,14
+S0589,Alexandria University,Male,2,Medicine,10791,22559,30
+S0590,Mansoura University,Female,3,Medicine,22742,15263,31
+S0591,Cairo University,Male,4,Pharmacy,8218,15004,26
+S0592,Cairo University,Female,1,Medicine,16257,26605,28
+S0593,Mansoura University,Male,3,Pharmacy,14139,29457,5
+S0594,Cairo University,Female,1,Pharmacy,14607,25699,35
+S0595,Alexandria University,Male,2,Business,19577,17860,14
+S0596,Ain Shams University,Female,4,Pharmacy,11878,18560,12
+S0597,Helwan University,Male,3,Law,22596,16879,32
+S0598,Helwan University,Female,1,Computer Science,24667,23868,8
+S0599,Cairo University,Male,2,Medicine,9113,20644,33
+S0600,Helwan University,Male,1,Medicine,13519,27006,14
+S0601,Ain Shams University,Male,3,Computer Science,9623,29980,1
+S0602,Mansoura University,Male,2,Medicine,10354,17229,35
+S0603,Helwan University,Female,1,Medicine,10112,18250,33
+S0604,Alexandria University,Male,3,Pharmacy,24148,17855,26
+S0605,Helwan University,Male,1,Law,15345,23900,15
+S0606,Alexandria University,Female,4,Engineering,15661,23513,3
+S0607,Helwan University,Male,4,Law,18540,25516,30
+S0608,Ain Shams University,Female,2,Engineering,14522,19378,12
+S0609,Ain Shams University,Female,2,Law,16977,21616,20
+S0610,Helwan University,Female,2,Business,16308,27456,13
+S0611,Ain Shams University,Male,4,Law,16945,19288,22
+S0612,Ain Shams University,Female,2,Engineering,13147,23132,10
+S0613,Cairo University,Male,2,Pharmacy,22813,18014,27
+S0614,Mansoura University,Female,2,Engineering,11167,16757,16
+S0615,Ain Shams University,Female,3,Medicine,22866,26654,16
+S0616,Ain Shams University,Female,4,Computer Science,12008,29490,32
+S0617,Alexandria University,Female,3,Law,18356,16143,1
+S0618,Ain Shams University,Male,3,Pharmacy,10007,28001,8
+S0619,Ain Shams University,Female,4,Computer Science,9053,17087,27
+S0620,Helwan University,Female,2,Law,14499,25814,33
+S0621,Cairo University,Male,2,Business,18154,18196,30
+S0622,Cairo University,Male,1,Law,18857,19808,10
+S0623,Alexandria University,Female,1,Engineering,9664,24827,29
+S0624,Helwan University,Female,3,Computer Science,20534,23309,17
+S0625,Cairo University,Female,3,Engineering,13369,24586,2
+S0626,Alexandria University,Female,1,Computer Science,9118,20922,30
+S0627,Cairo University,Male,1,Medicine,16079,19752,26
+S0628,Mansoura University,Male,4,Business,18605,17487,11
+S0629,Mansoura University,Male,4,Pharmacy,23208,29744,23
+S0630,Ain Shams University,Female,2,Medicine,15583,29391,25
+S0631,Cairo University,Male,1,Engineering,13435,19123,16
+S0632,Cairo University,Male,4,Engineering,18736,28508,2
+S0633,Alexandria University,Male,4,Engineering,23050,27278,35
+S0634,Mansoura University,Female,3,Business,19759,26776,6
+S0635,Ain Shams University,Female,2,Business,24165,26129,11
+S0636,Alexandria University,Female,4,Computer Science,14387,25810,20
+S0637,Alexandria University,Female,2,Medicine,15519,15767,30
+S0638,Helwan University,Male,3,Medicine,11816,29121,14
+S0639,Helwan University,Male,3,Computer Science,22156,19152,17
+S0640,Cairo University,Female,2,Medicine,22461,29829,20
+S0641,Cairo University,Female,1,Business,17619,20547,31
+S0642,Helwan University,Female,1,Law,10311,28420,33
+S0643,Ain Shams University,Female,3,Medicine,16175,18223,16
+S0644,Ain Shams University,Male,1,Engineering,21659,20290,9
+S0645,Cairo University,Female,1,Pharmacy,21690,21481,2
+S0646,Helwan University,Female,3,Law,14695,21481,26
+S0647,Ain Shams University,Female,4,Computer Science,12952,20241,35
+S0648,Helwan University,Male,4,Pharmacy,10137,22988,30
+S0649,Ain Shams University,Male,3,Engineering,20849,27059,24
+S0650,Cairo University,Female,2,Law,16279,20536,31
+S0651,Helwan University,Male,1,Computer Science,10965,21462,20
+S0652,Helwan University,Male,4,Business,12544,18128,13
+S0653,Alexandria University,Male,3,Business,20482,25458,19
+S0654,Mansoura University,Male,4,Pharmacy,22041,29490,34
+S0655,Mansoura University,Female,1,Medicine,15724,22944,18
+S0656,Alexandria University,Male,3,Engineering,20981,22358,28
+S0657,Helwan University,Female,4,Pharmacy,19863,20178,28
+S0658,Ain Shams University,Male,2,Computer Science,19926,24883,13
+S0659,Cairo University,Male,1,Pharmacy,13957,24914,11
+S0660,Mansoura University,Female,3,Law,12416,15733,27
+S0661,Ain Shams University,Male,3,Computer Science,21726,18927,6
+S0662,Cairo University,Female,3,Computer Science,10977,26954,32
+S0663,Alexandria University,Female,1,Computer Science,19329,20537,34
+S0664,Alexandria University,Male,2,Law,14866,15902,15
+S0665,Alexandria University,Female,2,Engineering,16240,21127,2
+S0666,Ain Shams University,Female,1,Pharmacy,17682,28118,4
+S0667,Mansoura University,Male,4,Medicine,14872,21401,5
+S0668,Ain Shams University,Female,4,Law,21366,29046,24
+S0669,Alexandria University,Male,1,Business,24881,19871,26
+S0670,Alexandria University,Female,2,Computer Science,9206,22360,5
+S0671,Cairo University,Male,4,Pharmacy,14435,22886,26
+S0672,Alexandria University,Male,2,Medicine,22302,28106,6
+S0673,Helwan University,Female,1,Medicine,22725,25189,30
+S0674,Helwan University,Female,2,Medicine,13138,28672,33
+S0675,Cairo University,Female,2,Pharmacy,11014,22290,2
+S0676,Mansoura University,Female,4,Medicine,21530,22400,4
+S0677,Ain Shams University,Female,2,Law,21417,24551,9
+S0678,Ain Shams University,Male,1,Computer Science,16893,24968,7
+S0679,Helwan University,Female,2,Business,20294,19484,23
+S0680,Mansoura University,Male,1,Medicine,14038,23375,7
+S0681,Cairo University,Female,3,Medicine,15050,27857,20
+S0682,Ain Shams University,Female,4,Engineering,22244,26925,2
+S0683,Ain Shams University,Male,1,Business,12750,27793,1
+S0684,Ain Shams University,Male,4,Medicine,11517,17479,1
+S0685,Helwan University,Female,2,Computer Science,14199,29183,5
+S0686,Alexandria University,Female,2,Law,23732,23331,5
+S0687,Cairo University,Female,4,Engineering,16127,15512,14
+S0688,Mansoura University,Male,1,Engineering,18044,29192,31
+S0689,Helwan University,Female,4,Law,20200,19417,10
+S0690,Helwan University,Female,4,Business,16467,20064,23
+S0691,Mansoura University,Female,2,Pharmacy,8402,27134,34
+S0692,Cairo University,Female,1,Computer Science,16153,28182,8
+S0693,Alexandria University,Female,2,Law,19866,18537,8
+S0694,Mansoura University,Female,4,Medicine,11352,16648,23
+S0695,Ain Shams University,Male,2,Pharmacy,14565,27941,29
+S0696,Ain Shams University,Female,4,Pharmacy,12748,23506,23
+S0697,Alexandria University,Female,4,Engineering,19860,18379,16
+S0698,Alexandria University,Male,2,Engineering,8992,27551,28
+S0699,Cairo University,Female,1,Law,13033,22906,27
+S0700,Alexandria University,Male,2,Pharmacy,8810,23426,4
+S0701,Alexandria University,Female,2,Engineering,9147,17025,17
+S0702,Helwan University,Male,2,Business,19413,25240,31
+S0703,Cairo University,Female,1,Business,13407,26117,30
+S0704,Alexandria University,Male,4,Business,24431,26306,22
+S0705,Alexandria University,Male,1,Law,22255,23501,5
+S0706,Mansoura University,Female,4,Computer Science,15940,18171,28
+S0707,Helwan University,Female,2,Engineering,21974,16517,29
+S0708,Helwan University,Male,4,Computer Science,11127,29203,34
+S0709,Mansoura University,Male,2,Law,9446,25011,29
+S0710,Mansoura University,Female,4,Law,8729,29371,1
+S0711,Helwan University,Female,4,Computer Science,15093,22068,13
+S0712,Ain Shams University,Male,3,Medicine,9686,27729,30
+S0713,Alexandria University,Female,2,Pharmacy,16244,17082,7
+S0714,Cairo University,Female,3,Pharmacy,17140,23073,16
+S0715,Cairo University,Female,2,Engineering,18402,17768,15
+S0716,Helwan University,Female,4,Business,13389,20009,24
+S0717,Cairo University,Female,1,Business,22758,24805,19
+S0718,Mansoura University,Male,3,Business,9320,18124,29
+S0719,Cairo University,Female,1,Engineering,18739,19520,17
+S0720,Alexandria University,Male,3,Medicine,10392,15057,24
+S0721,Helwan University,Male,2,Business,18671,28393,26
+S0722,Cairo University,Male,3,Pharmacy,11369,23499,15
+S0723,Ain Shams University,Male,3,Law,24653,21567,1
+S0724,Alexandria University,Male,3,Computer Science,23584,18735,34
+S0725,Cairo University,Female,4,Pharmacy,14659,16056,3
+S0726,Ain Shams University,Female,2,Business,22061,16073,2
+S0727,Mansoura University,Female,2,Engineering,12730,20806,32
+S0728,Mansoura University,Female,3,Business,24126,28598,31
+S0729,Ain Shams University,Female,2,Engineering,19402,16088,7
+S0730,Cairo University,Female,2,Computer Science,17834,21863,4
+S0731,Alexandria University,Female,1,Computer Science,11409,26795,22
+S0732,Helwan University,Male,1,Pharmacy,22764,29595,25
+S0733,Alexandria University,Female,2,Medicine,14845,17971,32
+S0734,Helwan University,Male,1,Pharmacy,16191,20118,20
+S0735,Cairo University,Female,2,Engineering,13707,21972,23
+S0736,Alexandria University,Female,3,Engineering,9196,19837,4
+S0737,Alexandria University,Male,1,Business,22546,20458,10
+S0738,Helwan University,Female,1,Pharmacy,11055,23217,24
+S0739,Mansoura University,Female,1,Medicine,17156,26993,2
+S0740,Ain Shams University,Male,4,Law,24919,28116,4
+S0741,Alexandria University,Female,4,Law,16474,26817,31
+S0742,Ain Shams University,Female,3,Business,10606,26727,17
+S0743,Alexandria University,Male,1,Engineering,24769,29628,9
+S0744,Helwan University,Female,1,Engineering,9658,22450,3
+S0745,Helwan University,Female,3,Law,13034,22626,21
+S0746,Mansoura University,Male,3,Business,22884,21287,15
+S0747,Cairo University,Male,2,Pharmacy,19683,20641,5
+S0748,Alexandria University,Male,1,Business,16347,20378,15
+S0749,Cairo University,Female,1,Medicine,16493,16045,2
+S0750,Ain Shams University,Female,4,Engineering,15622,20778,17
+S0751,Alexandria University,Male,3,Computer Science,14217,18686,28
+S0752,Mansoura University,Male,4,Engineering,20890,28356,34
+S0753,Cairo University,Male,1,Computer Science,13883,19382,35
+S0754,Ain Shams University,Female,2,Medicine,9216,24358,19
+S0755,Mansoura University,Male,3,Engineering,22577,29929,12
+S0756,Alexandria University,Female,4,Computer Science,24434,23603,8
+S0757,Mansoura University,Female,1,Law,13284,19584,20
+S0758,Cairo University,Male,4,Computer Science,16047,15147,7
+S0759,Mansoura University,Female,1,Medicine,15718,25936,4
+S0760,Alexandria University,Male,3,Pharmacy,13328,21868,6
+S0761,Ain Shams University,Male,4,Computer Science,8627,28350,20
+S0762,Mansoura University,Female,4,Medicine,14752,18633,3
+S0763,Alexandria University,Male,1,Computer Science,19166,22734,30
+S0764,Helwan University,Female,2,Medicine,23829,29073,14
+S0765,Helwan University,Female,4,Law,8752,20299,35
+S0766,Helwan University,Male,3,Engineering,23957,19657,14
+S0767,Ain Shams University,Female,2,Pharmacy,10412,28237,10
+S0768,Alexandria University,Male,2,Computer Science,21820,16633,26
+S0769,Ain Shams University,Female,1,Business,12214,20132,12
+S0770,Mansoura University,Male,3,Engineering,13455,18277,16
+S0771,Ain Shams University,Female,2,Law,22009,17092,35
+S0772,Cairo University,Male,2,Medicine,8534,19262,29
+S0773,Helwan University,Female,1,Law,20909,29902,31
+S0774,Ain Shams University,Female,4,Computer Science,16600,24513,24
+S0775,Cairo University,Male,2,Computer Science,10246,25426,18
+S0776,Mansoura University,Male,4,Medicine,22912,19246,10
+S0777,Ain Shams University,Female,1,Law,17712,28372,26
+S0778,Alexandria University,Female,1,Engineering,11323,25749,9
+S0779,Helwan University,Female,2,Business,23339,19665,4
+S0780,Mansoura University,Female,1,Law,14690,29348,34
+S0781,Cairo University,Male,3,Engineering,17332,24499,20
+S0782,Helwan University,Male,2,Engineering,11006,26433,15
+S0783,Cairo University,Female,2,Pharmacy,12978,29491,25
+S0784,Helwan University,Male,3,Pharmacy,16583,20403,30
+S0785,Ain Shams University,Female,1,Engineering,12041,18448,20
+S0786,Cairo University,Female,3,Business,12700,23461,32
+S0787,Mansoura University,Female,1,Engineering,22874,17756,27
+S0788,Helwan University,Male,3,Engineering,14811,21086,14
+S0789,Helwan University,Female,1,Engineering,10356,26557,32
+S0790,Mansoura University,Female,3,Law,20461,24203,17
+S0791,Mansoura University,Male,2,Computer Science,24053,26154,16
+S0792,Mansoura University,Female,3,Computer Science,16723,28882,19
+S0793,Mansoura University,Male,4,Engineering,18466,24360,32
+S0794,Helwan University,Male,1,Computer Science,17862,17953,29
+S0795,Alexandria University,Female,3,Law,13547,20283,7
+S0796,Ain Shams University,Male,2,Law,23569,29845,3
+S0797,Ain Shams University,Female,2,Medicine,8360,27860,23
+S0798,Cairo University,Female,2,Computer Science,15277,25346,31
+S0799,Mansoura University,Female,3,Business,11070,25245,22
+S0800,Cairo University,Male,2,Engineering,13974,24968,16
+S0801,Mansoura University,Male,2,Medicine,24524,21460,4
+S0802,Ain Shams University,Male,4,Business,20232,18085,6
+S0803,Cairo University,Female,1,Pharmacy,16182,17043,5
+S0804,Cairo University,Female,3,Medicine,22665,16076,11
+S0805,Helwan University,Male,2,Computer Science,16005,26687,17
+S0806,Helwan University,Female,2,Business,21952,17927,3
+S0807,Alexandria University,Female,2,Pharmacy,10481,15937,22
+S0808,Helwan University,Male,4,Law,18176,16113,2
+S0809,Alexandria University,Male,4,Engineering,10925,17794,19
+S0810,Mansoura University,Female,3,Engineering,12296,15141,17
+S0811,Ain Shams University,Female,4,Law,20581,22371,5
+S0812,Mansoura University,Female,1,Computer Science,18572,15340,28
+S0813,Alexandria University,Female,4,Pharmacy,22874,23560,34
+S0814,Cairo University,Female,2,Law,24509,15849,33
+S0815,Helwan University,Female,3,Engineering,18976,28776,21
+S0816,Alexandria University,Female,1,Business,19572,27668,35
+S0817,Helwan University,Male,4,Law,10368,28643,29
+S0818,Mansoura University,Female,2,Engineering,24910,28500,34
+S0819,Cairo University,Male,1,Computer Science,23922,25271,10
+S0820,Helwan University,Male,1,Computer Science,17829,15993,20
+S0821,Ain Shams University,Male,4,Business,18455,15911,7
+S0822,Cairo University,Female,4,Computer Science,11519,25492,29
+S0823,Helwan University,Male,4,Business,24544,20509,34
+S0824,Ain Shams University,Male,1,Law,24736,26685,14
+S0825,Alexandria University,Female,3,Computer Science,12788,27287,14
+S0826,Cairo University,Female,2,Medicine,11869,25435,19
+S0827,Alexandria University,Female,3,Pharmacy,15367,24448,20
+S0828,Helwan University,Male,3,Medicine,22947,28719,22
+S0829,Cairo University,Male,4,Engineering,22030,19709,35
+S0830,Ain Shams University,Male,2,Computer Science,22607,16562,32
+S0831,Helwan University,Female,3,Medicine,9133,29050,35
+S0832,Ain Shams University,Female,2,Engineering,19367,28179,17
+S0833,Mansoura University,Female,3,Computer Science,14952,21528,1
+S0834,Ain Shams University,Female,4,Pharmacy,14254,27260,8
+S0835,Alexandria University,Male,1,Law,20569,23075,25
+S0836,Cairo University,Female,4,Business,10474,17513,11
+S0837,Mansoura University,Female,2,Business,12098,18805,33
+S0838,Cairo University,Male,1,Pharmacy,21952,19475,34
+S0839,Cairo University,Female,4,Medicine,24966,18477,2
+S0840,Cairo University,Male,4,Law,19970,17025,2
+S0841,Cairo University,Female,2,Medicine,21834,19133,25
+S0842,Alexandria University,Male,3,Business,22980,23697,9
+S0843,Mansoura University,Male,4,Business,14128,20337,23
+S0844,Mansoura University,Male,1,Medicine,10433,15895,17
+S0845,Ain Shams University,Male,4,Medicine,15788,22997,15
+S0846,Helwan University,Female,3,Pharmacy,13120,27718,29
+S0847,Helwan University,Male,2,Law,17086,19295,25
+S0848,Cairo University,Male,1,Pharmacy,10302,26694,13
+S0849,Helwan University,Female,2,Law,21988,23513,22
+S0850,Mansoura University,Male,4,Computer Science,24137,18558,34
+S0851,Ain Shams University,Male,3,Computer Science,16152,15381,14
+S0852,Cairo University,Female,3,Law,24469,17265,3
+S0853,Mansoura University,Male,1,Computer Science,10713,28703,34
+S0854,Alexandria University,Female,3,Computer Science,22409,21337,3
+S0855,Ain Shams University,Male,2,Business,16003,24447,19
+S0856,Ain Shams University,Female,1,Engineering,22738,27385,20
+S0857,Alexandria University,Male,4,Engineering,17025,16180,18
+S0858,Mansoura University,Female,2,Medicine,11403,25049,18
+S0859,Helwan University,Male,3,Computer Science,20529,21089,9
+S0860,Helwan University,Female,1,Computer Science,10199,26208,25
+S0861,Ain Shams University,Male,3,Engineering,9070,19785,28
+S0862,Helwan University,Female,1,Law,8470,25272,22
+S0863,Alexandria University,Female,4,Medicine,10468,18459,6
+S0864,Cairo University,Female,3,Medicine,15108,19587,35
+S0865,Alexandria University,Male,3,Business,9716,25986,32
+S0866,Mansoura University,Male,2,Law,10014,16995,31
+S0867,Cairo University,Female,4,Engineering,24586,29888,18
+S0868,Alexandria University,Female,4,Pharmacy,21745,21061,17
+S0869,Helwan University,Male,1,Computer Science,8162,23541,6
+S0870,Ain Shams University,Male,4,Medicine,12448,22385,2
+S0871,Ain Shams University,Female,2,Law,16842,29252,33
+S0872,Mansoura University,Male,2,Pharmacy,18328,29852,7
+S0873,Helwan University,Male,4,Computer Science,9870,22342,24
+S0874,Cairo University,Male,1,Engineering,16221,18893,20
+S0875,Mansoura University,Male,1,Medicine,19964,15563,30
+S0876,Mansoura University,Male,4,Medicine,11768,16522,26
+S0877,Alexandria University,Female,1,Medicine,8054,21182,33
+S0878,Ain Shams University,Female,2,Business,10718,19672,5
+S0879,Alexandria University,Female,1,Medicine,16079,16276,3
+S0880,Cairo University,Female,4,Law,9494,17010,5
+S0881,Helwan University,Female,4,Pharmacy,9808,27454,30
+S0882,Alexandria University,Male,3,Pharmacy,22860,28574,18
+S0883,Cairo University,Female,4,Business,20982,20870,3
+S0884,Ain Shams University,Female,3,Medicine,18042,18213,33
+S0885,Alexandria University,Male,1,Pharmacy,12961,19077,19
+S0886,Cairo University,Male,2,Pharmacy,9900,20501,27
+S0887,Mansoura University,Female,2,Law,11041,29325,4
+S0888,Ain Shams University,Female,1,Engineering,14780,28076,18
+S0889,Mansoura University,Female,2,Business,14168,23964,15
+S0890,Cairo University,Male,4,Medicine,14654,25517,20
+S0891,Cairo University,Male,3,Engineering,19928,28336,1
+S0892,Helwan University,Female,4,Business,15792,25900,19
+S0893,Cairo University,Female,1,Computer Science,16955,22735,2
+S0894,Mansoura University,Male,3,Law,22209,21285,2
+S0895,Alexandria University,Female,4,Pharmacy,21692,17770,23
+S0896,Mansoura University,Female,2,Engineering,20890,29768,14
+S0897,Alexandria University,Female,3,Pharmacy,13213,22089,35
+S0898,Mansoura University,Female,3,Business,11892,24829,8
+S0899,Helwan University,Female,2,Law,10675,29447,15
+S0900,Alexandria University,Female,2,Medicine,23474,19259,27
+S0901,Cairo University,Male,4,Medicine,19561,19324,23
+S0902,Helwan University,Male,2,Business,22028,27633,10
+S0903,Ain Shams University,Female,4,Law,24501,24705,31
+S0904,Ain Shams University,Male,3,Business,22289,27770,13
+S0905,Helwan University,Male,4,Engineering,11979,22607,10
+S0906,Cairo University,Female,3,Business,15600,29857,13
+S0907,Helwan University,Female,1,Pharmacy,21061,16516,12
+S0908,Mansoura University,Male,2,Business,11276,23793,16
+S0909,Alexandria University,Female,4,Engineering,17209,24810,16
+S0910,Alexandria University,Female,3,Medicine,9286,27961,19
+S0911,Helwan University,Female,3,Computer Science,20858,15384,20
+S0912,Ain Shams University,Female,4,Pharmacy,12840,25246,30
+S0913,Alexandria University,Female,3,Medicine,22307,21955,20
+S0914,Mansoura University,Male,4,Law,15223,17646,26
+S0915,Mansoura University,Male,4,Business,11496,29201,15
+S0916,Alexandria University,Male,2,Engineering,17013,20694,19
+S0917,Alexandria University,Male,3,Medicine,21685,23421,9
+S0918,Alexandria University,Female,4,Business,8019,19370,31
+S0919,Ain Shams University,Female,3,Pharmacy,13165,19173,1
+S0920,Mansoura University,Male,1,Medicine,13470,19332,32
+S0921,Cairo University,Male,4,Pharmacy,12514,20496,7
+S0922,Alexandria University,Female,4,Business,16881,22981,5
+S0923,Mansoura University,Female,2,Medicine,12097,22385,20
+S0924,Ain Shams University,Male,2,Pharmacy,11484,21193,10
+S0925,Mansoura University,Female,2,Computer Science,15202,24651,13
+S0926,Alexandria University,Female,4,Pharmacy,22130,23858,20
+S0927,Cairo University,Female,1,Engineering,22072,24961,30
+S0928,Ain Shams University,Female,3,Medicine,20468,19555,2
+S0929,Cairo University,Female,3,Computer Science,10079,23552,5
+S0930,Helwan University,Female,1,Medicine,13833,25161,10
+S0931,Cairo University,Female,2,Medicine,12582,19503,10
+S0932,Helwan University,Female,2,Computer Science,14827,19845,25
+S0933,Helwan University,Male,2,Computer Science,19250,18046,18
+S0934,Helwan University,Male,4,Business,21964,16959,6
+S0935,Cairo University,Female,1,Business,8613,24360,31
+S0936,Helwan University,Male,3,Engineering,23677,24868,18
+S0937,Mansoura University,Male,2,Business,10386,23703,3
+S0938,Ain Shams University,Female,2,Medicine,19360,23767,1
+S0939,Cairo University,Male,3,Computer Science,24016,20822,5
+S0940,Helwan University,Male,2,Business,23953,28219,11
+S0941,Ain Shams University,Male,2,Business,20644,29405,22
+S0942,Cairo University,Male,3,Law,21302,19650,1
+S0943,Alexandria University,Male,3,Computer Science,13216,19117,3
+S0944,Mansoura University,Male,1,Medicine,21019,22381,34
+S0945,Cairo University,Female,4,Pharmacy,9007,18234,19
+S0946,Cairo University,Female,4,Engineering,17482,18747,12
+S0947,Mansoura University,Male,1,Law,24412,16273,9
+S0948,Helwan University,Female,1,Medicine,15953,25005,25
+S0949,Helwan University,Male,3,Medicine,23171,16859,34
+S0950,Ain Shams University,Male,3,Law,11128,23231,4
+S0951,Mansoura University,Female,3,Pharmacy,21099,17663,5
+S0952,Mansoura University,Female,1,Engineering,18138,29231,29
+S0953,Helwan University,Male,3,Pharmacy,21786,17452,20
+S0954,Helwan University,Male,2,Business,19155,25042,11
+S0955,Cairo University,Female,4,Medicine,8596,21956,23
+S0956,Cairo University,Male,4,Computer Science,12865,19980,21
+S0957,Helwan University,Male,3,Law,8126,25022,17
+S0958,Helwan University,Female,4,Law,8286,18902,26
+S0959,Mansoura University,Female,4,Pharmacy,15937,17726,4
+S0960,Cairo University,Female,1,Medicine,18367,23802,21
+S0961,Ain Shams University,Male,2,Business,19560,17853,21
+S0962,Cairo University,Male,1,Engineering,23022,25487,35
+S0963,Ain Shams University,Male,1,Engineering,12185,27582,34
+S0964,Ain Shams University,Male,2,Engineering,12512,23559,14
+S0965,Mansoura University,Male,1,Computer Science,16928,23922,21
+S0966,Helwan University,Male,1,Computer Science,21843,22799,22
+S0967,Helwan University,Male,1,Engineering,21971,20788,19
+S0968,Helwan University,Female,1,Medicine,16817,17274,35
+S0969,Cairo University,Female,3,Computer Science,12808,20062,10
+S0970,Helwan University,Female,2,Business,17907,24239,28
+S0971,Cairo University,Male,3,Medicine,23170,23705,13
+S0972,Ain Shams University,Female,1,Engineering,9075,19887,34
+S0973,Ain Shams University,Male,1,Business,20038,28076,16
+S0974,Mansoura University,Male,1,Computer Science,23155,26096,24
+S0975,Alexandria University,Male,4,Medicine,15650,26121,27
+S0976,Helwan University,Female,3,Computer Science,11777,25093,19
+S0977,Ain Shams University,Male,2,Medicine,16371,15756,12
+S0978,Ain Shams University,Female,3,Computer Science,20512,23522,2
+S0979,Cairo University,Male,2,Pharmacy,19637,26474,1
+S0980,Ain Shams University,Female,1,Computer Science,14035,25767,7
+S0981,Cairo University,Male,1,Law,24990,28807,26
+S0982,Helwan University,Female,4,Medicine,9733,19944,10
+S0983,Cairo University,Male,4,Engineering,9141,18965,34
+S0984,Cairo University,Male,2,Engineering,10080,15998,14
+S0985,Mansoura University,Female,3,Law,23840,22172,20
+S0986,Mansoura University,Male,1,Law,8986,16489,5
+S0987,Helwan University,Female,4,Pharmacy,19309,21714,17
+S0988,Mansoura University,Male,3,Computer Science,10337,20681,26
+S0989,Cairo University,Male,3,Law,11721,28411,6
+S0990,Mansoura University,Male,4,Business,12155,25297,9
+S0991,Ain Shams University,Female,3,Medicine,24787,26710,2
+S0992,Ain Shams University,Male,2,Computer Science,24718,21742,34
+S0993,Alexandria University,Male,2,Computer Science,15376,17354,12
+S0994,Cairo University,Female,3,Law,20182,21357,34
+S0995,Helwan University,Female,1,Engineering,19825,27741,26
+S0996,Alexandria University,Female,1,Law,12751,22517,17
+S0997,Mansoura University,Female,4,Computer Science,20763,29001,25
+S0998,Ain Shams University,Male,4,Computer Science,24984,18178,26
+S0999,Mansoura University,Male,1,Computer Science,13287,24308,22
+S1000,Mansoura University,Female,1,Law,8785,20955,31
